@@ -1,1 +1,4 @@
-
+[submodule "bawiki-data"]
+	path = bawiki-data
+	url = https://github.com/wikibuyou/wiki_db2/bawiki-data
+	branch = main
